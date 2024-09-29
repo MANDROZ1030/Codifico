@@ -1,0 +1,75 @@
+.container {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 0;
+}
+
+.search-field {
+  width: 300px;
+}
+
+.action-buttons {
+  display: flex;
+}
+
+.action-button {
+  background-color: transparent;
+  border: none;
+  font-size: 14px;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 8px 16px;
+  letter-spacing: 0.5px;
+}
+.action-button.view-orders.mat-mdc-button.mat-unthemed {
+  color: #b71c1c !important; 
+}
+
+.action-button.view-orders.mat-mdc-button.mat-unthemed:hover {
+  background-color: #ffcdd2 !important; 
+}
+
+.action-button.new-order.mat-mdc-button.mat-unthemed {
+  color: #32b83b !important; 
+}
+
+.action-button.new-order.mat-mdc-button.mat-unthemed:hover {
+  background-color: #c8e6c9 !important; 
+}
+
+.mat-header-cell {
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.mat-cell {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.mat-row:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
+.mat-paginator {
+  margin-top: 20px;
+}
+
+
+.mat-column-actions button {
+  margin-right: 8px;
+}

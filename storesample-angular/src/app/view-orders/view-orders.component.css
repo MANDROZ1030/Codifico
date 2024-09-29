@@ -1,0 +1,84 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .orders-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 400px;
+    min-width: 600px;
+  }
+  
+  .orders-header {
+    background-color: #b71c1c;
+    color: white;
+    padding: 16px;
+    margin: 0;
+    font-size: 24px;
+    flex-shrink: 0;
+  }
+  
+  .table-container {
+    flex: 1;
+    overflow: auto;
+  }
+  
+  .mat-mdc-table {
+    width: 100%;
+  }
+  
+  .mat-mdc-header-row {
+    background-color: #f5f5f5;
+  }
+  
+  .mat-mdc-header-cell {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.87);
+  }
+  
+  .mat-mdc-cell, .mat-mdc-header-cell {
+    padding: 8px 16px;
+  }
+  
+  .mat-mdc-row:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .mat-mdc-row:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .mat-mdc-paginator {
+    flex-shrink: 0;
+  }
+  
+  .close-button-container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 16px;
+    background-color: white;
+  }
+  
+  .close-button {
+    background-color: transparent;
+    color: #b71c1c;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    padding: 8px 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .close-button:hover {
+    text-decoration: underline;
+  }
+  .mat-mdc-raised-button.mat-warn {
+    background-color: #b71c1c;
+    font-size: 16px;
+    padding: 8px 16px;
+  }

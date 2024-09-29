@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PLlJV/C1nVpYOJTwQyFMTHbmTnZQBkBPhAZmF3y2SFs=",
+  "Source": "StoreSampleAPI",
+  "BasePath": "_content/StoreSampleAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

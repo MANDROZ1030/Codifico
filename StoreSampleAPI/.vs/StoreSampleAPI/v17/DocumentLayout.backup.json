@@ -1,0 +1,726 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\dtos\\customerordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:dtos\\customerordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\dtos\\customerorderpredictiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:dtos\\customerorderpredictiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\storesamplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\storesamplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\ordervalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\ordervalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\ordertotalsbyyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\ordertotalsbyyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\custorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\custorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\repositories\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:repositories\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\interfaces\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:interfaces\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\codifico\\storesampleapi\\storesampleapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63FBC822-EF63-4A89-9DE9-BA38C725D6A0}|StoreSampleAPI.csproj|solutionrelative:storesampleapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShipperDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\ShipperDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ShipperDTO.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\ShipperDTO.cs",
+              "RelativeToolTip": "DTOs\\ShipperDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:39:22.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDetailDTO.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\OrderDetailDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:38:42.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:56:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:35:08.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:19:59.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:26:04.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:25:48.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:31:05.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:30:13.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:21:53.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:50:40.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Shipper.cs",
+              "RelativeDocumentMoniker": "Models\\Shipper.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Shipper.cs",
+              "RelativeToolTip": "Models\\Shipper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:31:32.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:34:23.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:40:24.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:21:39.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:38:18.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\CreateOrderDTO.cs",
+              "RelativeToolTip": "DTOs\\CreateOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T23:10:35.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:34:21.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:17:02.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:39:41.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:38:56.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerOrdersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\CustomerOrdersDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerOrdersDTO.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\CustomerOrdersDTO.cs",
+              "RelativeToolTip": "DTOs\\CustomerOrdersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:20:24.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShippersController.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\ShippersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShippersController.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\ShippersController.cs",
+              "RelativeToolTip": "Controllers\\ShippersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:31:47.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerOrderPredictionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\CustomerOrderPredictionDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerOrderPredictionDTO.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\CustomerOrderPredictionDTO.cs",
+              "RelativeToolTip": "DTOs\\CustomerOrderPredictionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:37:59.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:37:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:34:04.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:31:25.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StoreSampleContext.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\StoreSampleContext.cs",
+              "RelativeDocumentMoniker": "Models\\StoreSampleContext.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\StoreSampleContext.cs",
+              "RelativeToolTip": "Models\\StoreSampleContext.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAAAIgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:49:52.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:31:37.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderValue.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\OrderValue.cs",
+              "RelativeDocumentMoniker": "Models\\OrderValue.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\OrderValue.cs",
+              "RelativeToolTip": "Models\\OrderValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:50:28.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderTotalsByYear.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\OrderTotalsByYear.cs",
+              "RelativeDocumentMoniker": "Models\\OrderTotalsByYear.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\OrderTotalsByYear.cs",
+              "RelativeToolTip": "Models\\OrderTotalsByYear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:50:26.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:50:23.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShipperService.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\ShipperService.cs",
+              "RelativeDocumentMoniker": "Services\\ShipperService.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\ShipperService.cs",
+              "RelativeToolTip": "Services\\ShipperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:26:18.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:26:36.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:23:55.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustOrder.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\CustOrder.cs",
+              "RelativeDocumentMoniker": "Models\\CustOrder.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\CustOrder.cs",
+              "RelativeToolTip": "Models\\CustOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:25:15.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:25:23.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:21:12.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:23:05.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T23:13:38.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShipperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\ShipperRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ShipperRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Repositories\\ShipperRepository.cs",
+              "RelativeToolTip": "Repositories\\ShipperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:22:34.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IShipperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\IShipperRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IShipperRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\IShipperRepository.cs",
+              "RelativeToolTip": "Interfaces\\IShipperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:57:01.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:05:52.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StoreSampleAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\StoreSampleAPI.csproj",
+              "RelativeDocumentMoniker": "StoreSampleAPI.csproj",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\Codifico\\StoreSampleAPI\\StoreSampleAPI.csproj",
+              "RelativeToolTip": "StoreSampleAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T21:32:43.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
